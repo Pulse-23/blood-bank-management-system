@@ -1,1 +1,2 @@
-# blood-bank-management-system
+# Blood-Bank-Management
+This is a RBDMS project, developed using html, css and js at the front end and MySQL at the backend, run on the XAMPP server with php as the localhost. The implementation of this is done by creating an Admin, who manages the transactions between the blood bags supplied from various Blood donation camps, (given by the registered Blood Bank POCs) and the demands from the hospitals (given by the Hospital POCs). 
